@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+
+    <color name="login_view_bg">#e5e5e5</color>
+    <color name="myCheck">#8a8c8e</color>
+    <color name="login_title">#52aaff</color>
+    <color name="main_home_line_color">#f3f3f3</color>
+    <color name="main_home_view_color">#329AFF</color>
+    <color name="new_theme_color">#3CA0FF</color>
+    <color name="green">#008000</color>
+    <color name="view_color">#EDEDED</color>
+</resources>
